@@ -5,7 +5,7 @@ from tkinter import ttk
 import tkinter.messagebox
 
 
-#หน้าจอที่ 1
+#หน้าจอที่ 1 TEST
 root = Tk()
 root.title("My GUI")
 #กำหนดขนาดหน้าจอและตำแหน่งหน้าจอ
